@@ -1,0 +1,214 @@
+Detected fault: severity: 0.1 info: "Actief..." matched 89%.
+Starting sequence 1 (output as: ./output\2021-09-29_16h06m54s_application\sequences\2021-09-29_16h06m54s_application_sequence_1.testar)
+
+Detected fault: severity: 0.16 info: Failed to match "Ready".
+ExecutedAction [1]: 
+ @Action ConcreteID = AC1umn7o87e897390263 AbstractID = AA1umn7o87e897390263
+ ConcreteID CUSTOM = ACC1yvv71y811781562787 AbstractID CUSTOM = AAC1lirds7232511102899
+ @State ConcreteID = SCmvpjzp210414843674 AbstractID = SR1yiopo11fc2254516184
+ ConcreteID CUSTOM = SCC1e7ricr2422979666903 AbstractID CUSTOM = SAC1bp9ixe1ea1605355533
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC12akdbs1c599558449, WR17v7k2nb1067391859, WT1qe89j4f2180189081, WP10chjd2182162991762
+		ROLE = UIAMenuItem
+		TITLE = Help
+		SHAPE = Rect [x:1235.0 y:42.0 w:35.0 h:20.0]
+		CHILDREN = 0
+		PATH = [0, 2, 4]
+	DESCRIPTION = Left Click at 'Help'
+	TEXT = Compound Action =
+		Move mouse to (1252.5, 52.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.15 info: "Over Qt" matched 71%.
+ExecutedAction [2]: 
+ @Action ConcreteID = AC1h18imr802686928416 AbstractID = AA1h18imr802686928416
+ ConcreteID CUSTOM = ACC1a5qyy803538980335 AbstractID CUSTOM = AAC235deq232141943370
+ @State ConcreteID = SC1uabc5528a2677593405 AbstractID = SRi3hrol272651166655
+ ConcreteID CUSTOM = SCC1bmbgbu2ca923022689 AbstractID CUSTOM = SAC1rc75dw25c1508133960
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC4p1omw191423266362, WR17v7k2nb1067391859, WT1qed2vnf1032385644, WPdt1w8a152502120662
+		ROLE = UIAMenuItem
+		TITLE = Over
+		SHAPE = Rect [x:1238.0 y:65.0 w:83.0 h:21.0]
+		CHILDREN = 0
+		PATH = [1, 0]
+	DESCRIPTION = Left Click at 'Over'
+	TEXT = Compound Action =
+		Move mouse to (1279.5, 75.5).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.15 info: "OK" matched 50%.
+ExecutedAction [3]: 
+ @Action ConcreteID = AC3ntykr7f2994126255 AbstractID = AA3ntykr7f2994126255
+ ConcreteID CUSTOM = ACC1pxsn0t822048040396 AbstractID CUSTOM = AACgy6l8j201379487351
+ @State ConcreteID = SCh2aya12ab798251247 AbstractID = SR22i3nj2953039716941
+ ConcreteID CUSTOM = SCC1l1c7gc2f11920028781 AbstractID CUSTOM = SAC117wzlf281783697807
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WCk5369t1b1165804518, WR1h6ibpb92248851252, WTzj707vb935461581, WPynkfw317538157741
+		ROLE = UIAButton
+		TITLE = OK
+		SHAPE = Rect [x:1519.0 y:369.0 w:75.0 h:23.0]
+		CHILDREN = 0
+		PATH = [0, 0, 2, 0]
+	DESCRIPTION = Left Click at 'OK'
+	TEXT = Compound Action =
+		Move mouse to (1556.5, 380.5).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+ExecutedAction [4]: 
+ @Action ConcreteID = ACrummzu7e2551291406 AbstractID = AArummzu7e2551291406
+ ConcreteID CUSTOM = ACC103fgo081833416522 AbstractID CUSTOM = AACxf6i04212815625034
+ @State ConcreteID = SCp3nkj3212132057052 AbstractID = SR1yiopo11fc2254516184
+ ConcreteID CUSTOM = SCC1xo9v2s2434163190458 AbstractID CUSTOM = SAC1bp9ixe1ea1605355533
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC1u2qka81b79610059, WR1h6ibpb92248851252, WT1ui9k19e3288609738, WP1fozrlq17979100885
+		ROLE = UIAButton
+		TITLE = Nieuw
+		SHAPE = Rect [x:1114.0 y:64.0 w:29.0 h:28.0]
+		CHILDREN = 0
+		PATH = [0, 3, 0]
+	DESCRIPTION = Left Click at 'Nieuw'
+	TEXT = Compound Action =
+		Move mouse to (1128.5, 78.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.1 info: "Actief..." matched 89%.
+ExecutedAction [5]: 
+ @Action ConcreteID = ACn9ow9y7f553903441 AbstractID = AAn9ow9y7f553903441
+ ConcreteID CUSTOM = ACC16zy0xu812928807641 AbstractID CUSTOM = AAC1lirds7232511102899
+ @State ConcreteID = SCo3uv742123007829542 AbstractID = SR1yiopo11fc2254516184
+ ConcreteID CUSTOM = SCC16p8jj42421917096426 AbstractID CUSTOM = SAC1bp9ixe1ea1605355533
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC12akdbs1c599558449, WR17v7k2nb1067391859, WT1qe89j4f2180189081, WP10chjd2182162991762
+		ROLE = UIAMenuItem
+		TITLE = Help
+		SHAPE = Rect [x:1235.0 y:42.0 w:35.0 h:20.0]
+		CHILDREN = 0
+		PATH = [0, 2, 4]
+	DESCRIPTION = Left Click at 'Help'
+	TEXT = Compound Action =
+		Move mouse to (1252.5, 52.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.15 info: "Over Qt" matched 71%.
+ExecutedAction [6]: 
+ @Action ConcreteID = AC1h18imr802686928416 AbstractID = AA1h18imr802686928416
+ ConcreteID CUSTOM = ACC1a5qyy803538980335 AbstractID CUSTOM = AAC235deq232141943370
+ @State ConcreteID = SC1uabc5528a2677593405 AbstractID = SRi3hrol272651166655
+ ConcreteID CUSTOM = SCC1bmbgbu2ca923022689 AbstractID CUSTOM = SAC1rc75dw25c1508133960
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC4p1omw191423266362, WR17v7k2nb1067391859, WT1qed2vnf1032385644, WPdt1w8a152502120662
+		ROLE = UIAMenuItem
+		TITLE = Over
+		SHAPE = Rect [x:1238.0 y:65.0 w:83.0 h:21.0]
+		CHILDREN = 0
+		PATH = [1, 0]
+	DESCRIPTION = Left Click at 'Over'
+	TEXT = Compound Action =
+		Move mouse to (1279.5, 75.5).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.15 info: "OK" matched 0%.
+ExecutedAction [7]: 
+ @Action ConcreteID = AC3ntykr7f2994126255 AbstractID = AA3ntykr7f2994126255
+ ConcreteID CUSTOM = ACC1pxsn0t822048040396 AbstractID CUSTOM = AACgy6l8j201379487351
+ @State ConcreteID = SCh2aya12ab798251247 AbstractID = SR22i3nj2953039716941
+ ConcreteID CUSTOM = SCC1l1c7gc2f11920028781 AbstractID CUSTOM = SAC117wzlf281783697807
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WCk5369t1b1165804518, WR1h6ibpb92248851252, WTzj707vb935461581, WPynkfw317538157741
+		ROLE = UIAButton
+		TITLE = OK
+		SHAPE = Rect [x:1519.0 y:369.0 w:75.0 h:23.0]
+		CHILDREN = 0
+		PATH = [0, 0, 2, 0]
+	DESCRIPTION = Left Click at 'OK'
+	TEXT = Compound Action =
+		Move mouse to (1556.5, 380.5).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+ExecutedAction [8]: 
+ @Action ConcreteID = AC9un3f87e507776145 AbstractID = AA9un3f87e507776145
+ ConcreteID CUSTOM = ACCi3fx3e813086581717 AbstractID CUSTOM = AAC1lirds5232093991558
+ @State ConcreteID = SCp3nkj3212132057052 AbstractID = SR1yiopo11fc2254516184
+ ConcreteID CUSTOM = SCC1xo9v2s2434163190458 AbstractID CUSTOM = SAC1bp9ixe1ea1605355533
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC1eozn1u1e1022790062, WR17v7k2nb1067391859, WT8xh955112374978064, WP194u11c1a2387630228
+		ROLE = UIAMenuItem
+		TITLE = Bewerk
+		SHAPE = Rect [x:1157.0 y:42.0 w:48.0 h:20.0]
+		CHILDREN = 0
+		PATH = [0, 2, 1]
+	DESCRIPTION = Left Click at 'Bewerk'
+	TEXT = Compound Action =
+		Move mouse to (1181.0, 52.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+ExecutedAction [9]: 
+ @Action ConcreteID = AC1rm46pi813896766388 AbstractID = AA1rm46pi813896766388
+ ConcreteID CUSTOM = ACC1upjv6k8144047476 AbstractID CUSTOM = AAC7j1lc3221407892095
+ @State ConcreteID = SC1akpaxv2b31024181654 AbstractID = SR1ep3e0529a4245955488
+ ConcreteID CUSTOM = SCCefiudf2f72699064547 AbstractID CUSTOM = SACi37mty2824193079934
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC1suclte1c2599228107, WR17v7k2nb1067391859, WT1n4232n12813121715, WP1llales182011669464
+		ROLE = UIAMenuItem
+		TITLE = Plakken
+		SHAPE = Rect [x:1160.0 y:106.0 w:146.0 h:21.0]
+		CHILDREN = 0
+		PATH = [1, 2]
+	DESCRIPTION = Left Click at 'Plakken'
+	TEXT = Compound Action =
+		Move mouse to (1233.0, 116.5).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+ExecutedAction [10]: 
+ @Action ConcreteID = AC1adqemr802367464186 AbstractID = AA1adqemr802367464186
+ ConcreteID CUSTOM = ACCrb7c3r804054670193 AbstractID CUSTOM = AAC1lirds5232093991558
+ @State ConcreteID = SC1euw4x82121259893899 AbstractID = SR1yiopo11fc2254516184
+ ConcreteID CUSTOM = SCCdzyxdo2432840771269 AbstractID CUSTOM = SAC1bp9ixe1ea1605355533
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC1eozn1u1e1022790062, WR17v7k2nb1067391859, WT8xh955112374978064, WP194u11c1a2387630228
+		ROLE = UIAMenuItem
+		TITLE = Bewerk
+		SHAPE = Rect [x:1157.0 y:42.0 w:48.0 h:20.0]
+		CHILDREN = 0
+		PATH = [0, 2, 1]
+	DESCRIPTION = Left Click at 'Bewerk'
+	TEXT = Compound Action =
+		Move mouse to (1181.0, 52.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.15 info: "controlled environment" matched 50%.
+Sequence 1 finished.
+Sequence contained faults!
+Saved generated sequence ("./output\2021-09-29_16h06m54s_application\sequences\2021-09-29_16h06m54s_application_sequence_1.testar")
+Copying classified sequence ("./output\2021-09-29_16h06m54s_application\sequences\2021-09-29_16h06m54s_application_sequence_1.testar") to sequences_other folder...

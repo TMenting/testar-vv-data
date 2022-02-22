@@ -1,0 +1,218 @@
+Detected fault: severity: 0.16 info: Failed to match "nl".
+Starting sequence 1 (output as: ./output\2022-01-21_21h52m31s_ou\sequences\2022-01-21_21h52m32s_ou_sequence_1.testar)
+
+Detected fault: severity: 0.16 info: Failed to match "nl".
+ExecutedAction [1]: 
+ @Action ConcreteID = ACxahrt8822547881194 AbstractID = AAxahrt8822547881194
+ ConcreteID CUSTOM = ACC1gn9229822959924689 AbstractID CUSTOM = AAChyli641e3709731369
+ @State ConcreteID = SC1f30yim2c033922253318 AbstractID = SRq56ssu26ed3565088957
+ ConcreteID CUSTOM = SCC1bx75mv3075333810631 AbstractID CUSTOM = SACrjxra911a22805635847
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC1xvt00p2e1361379745, WR16rf8hj633150030, WT16rf8hj633150030, WP1x2rh3f2a1444284133
+		ROLE = WdSPAN
+		TITLE = 
+		SHAPE = Rect [x:1439.0 y:980.0 w:105.0 h:18.0]
+		CHILDREN = 0
+		PATH = [0, 1, 1, 0, 0, 2, 1, 0, 0, 1, 0, 0]
+	DESCRIPTION = Left Click at 'Ik ga akkoord'
+	TEXT = Compound Action =
+		Move mouse to (1491.5, 989.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "nl".
+ExecutedAction [2]: 
+ @Action ConcreteID = AC1qk5cps81964626226 AbstractID = AA1qk5cps81964626226
+ ConcreteID CUSTOM = ACC1qiv4gc811248007086 AbstractID CUSTOM = AAC1kn31ro1c3153315067
+ @State ConcreteID = SC1pgivxg2af22413208676 AbstractID = SR1efedgl2603530807707
+ ConcreteID CUSTOM = SCCngpe362f512355211645 AbstractID CUSTOM = SAC1rc4bhk11171689387825
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC1laev97313993540099, WR1uyc32532851330, WT1uyc32532851330, WP232d2l2d2706612302
+		ROLE = WdA
+		TITLE = 
+		SHAPE = Rect [x:1087.0 y:36.0 w:141.0 h:100.0]
+		CHILDREN = 1
+		PATH = [0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0]
+	DESCRIPTION = Left Click at 'Onderzoek'
+	TEXT = Compound Action =
+		Move mouse to (1157.5, 86.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "nl".
+ExecutedAction [3]: 
+ @Action ConcreteID = ACr0se917f1932947724 AbstractID = AAr0se917f1932947724
+ ConcreteID CUSTOM = ACCgccf52812445659121 AbstractID CUSTOM = AAC18tlyat1b3101761318
+ @State ConcreteID = SC75wy9t1fa7784182197 AbstractID = SR176vrtw1c0e4291297456
+ ConcreteID CUSTOM = SCC6oild722c11192559343 AbstractID CUSTOM = SAC1o93w4kccb2801745597
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WCpaiqt9311103068274, WR1uyc32532851330, WT1uyc32532851330, WP154aalr2d249842239
+		ROLE = WdA
+		TITLE = 
+		SHAPE = Rect [x:1228.0 y:36.0 w:126.0 h:100.0]
+		CHILDREN = 1
+		PATH = [1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2, 0]
+	DESCRIPTION = Left Click at 'Over ons'
+	TEXT = Compound Action =
+		Move mouse to (1291.0, 86.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "nl".
+ExecutedAction [4]: 
+ @Action ConcreteID = ACixnjwf802371362532 AbstractID = AAixnjwf802371362532
+ ConcreteID CUSTOM = ACC1nfxr7k822685583893 AbstractID CUSTOM = AAC5hmsfg1c3866232512
+ @State ConcreteID = SCa5usit14194245630576 AbstractID = SR1o0dacc11ab3920388026
+ ConcreteID CUSTOM = SCC19h504y16093237785021 AbstractID CUSTOM = SAC1k8pvtu8224101047416
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WChuts4q58818470410, WR1uyc32532851330, WT1uyc32532851330, WPotjm2g542129635342
+		ROLE = WdA
+		TITLE = 
+		SHAPE = Rect [x:446.0 y:763.0 w:289.0 h:41.0]
+		CHILDREN = 0
+		PATH = [1, 1, 1, 0, 0, 2, 0, 0, 0, 0, 1, 0, 0, 0, 0, 2, 0, 1, 0, 0, 0, 0, 0, 0, 2, 3, 0]
+	DESCRIPTION = Left Click at 'Feiten en cijfers'
+	TEXT = Compound Action =
+		Move mouse to (590.5, 783.5).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "nl".
+ExecutedAction [5]: 
+ @Action ConcreteID = ACaf5mn680588063930 AbstractID = AAaf5mn680588063930
+ ConcreteID CUSTOM = ACCguvb0u823149532923 AbstractID CUSTOM = AAC181eq7m1e4112063903
+ @State ConcreteID = SC3udbxf15531115736151 AbstractID = SRloac3n12c21753570163
+ ConcreteID CUSTOM = SCC15d00dw175a1449060894 AbstractID CUSTOM = SAC1l1zwi58831820649423
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC1koody8373719787285, WR16rf8hj633150030, WT16rf8hj633150030, WP1pqm032333498223472
+		ROLE = WdSPAN
+		TITLE = 
+		SHAPE = Rect [x:1047.0 y:66.0 w:40.0 h:40.0]
+		CHILDREN = 0
+		PATH = [1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0]
+	DESCRIPTION = Left Click at 'span'
+	TEXT = Compound Action =
+		Move mouse to (1067.0, 86.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "nl".
+ExecutedAction [6]: 
+ @Action ConcreteID = AC1efgwt37f1751476458 AbstractID = AA1efgwt37f1751476458
+ ConcreteID CUSTOM = ACC1wkb9wn813259349205 AbstractID CUSTOM = AACek4e7y1b2628140985
+ @State ConcreteID = SC602efz1607292007715 AbstractID = SR1bg02py13603165818107
+ ConcreteID CUSTOM = SCCiee0cp18242704471304 AbstractID CUSTOM = SAC17syol18f31568475896
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WCq9etjw373856824400, WR1uyc32532851330, WT1uyc32532851330, WPrfywzy33529493658
+		ROLE = WdA
+		TITLE = 
+		SHAPE = Rect [x:888.0 y:218.0 w:198.0 h:41.0]
+		CHILDREN = 0
+		PATH = [1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 2, 0]
+	DESCRIPTION = Left Click at 'Studeren'
+	TEXT = Compound Action =
+		Move mouse to (987.0, 238.5).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "nl".
+ExecutedAction [7]: 
+ @Action ConcreteID = ACb804z2802519921775 AbstractID = AAb804z2802519921775
+ ConcreteID CUSTOM = ACC13xxial802950466430 AbstractID CUSTOM = AAC1evrpcp1b3083988054
+ @State ConcreteID = SC15hcw6r14774261805717 AbstractID = SRaslbp311ea3362926825
+ ConcreteID CUSTOM = SCC1bpf49d1674238287684 AbstractID CUSTOM = SAC1f0h4n783d2029885749
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC1c9vuey2b2324912739, WR1uyc32532851330, WT1uyc32532851330, WPjd4ap8271634246060
+		ROLE = WdA
+		TITLE = 
+		SHAPE = Rect [x:366.0 y:51.0 w:189.0 h:70.0]
+		CHILDREN = 0
+		PATH = [1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+	DESCRIPTION = Left Click at 'a'
+	TEXT = Compound Action =
+		Move mouse to (460.5, 86.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "nl".
+ExecutedAction [8]: 
+ @Action ConcreteID = ACj01vyz802538581434 AbstractID = AAj01vyz802538581434
+ ConcreteID CUSTOM = ACClhgqji811980265686 AbstractID CUSTOM = AACer2me41b919141439
+ @State ConcreteID = SC1h85hnr2ace3712851070 AbstractID = SR10wzsv525f13336477321
+ ConcreteID CUSTOM = SCC1p246c42f1b2384685020 AbstractID CUSTOM = SACofyxoh11014171640333
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC1c9vuey2b2324912739, WR1uyc32532851330, WT1uyc32532851330, WPjd4ap8271634246060
+		ROLE = WdA
+		TITLE = 
+		SHAPE = Rect [x:366.0 y:51.0 w:189.0 h:70.0]
+		CHILDREN = 0
+		PATH = [1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+	DESCRIPTION = Left Click at 'a'
+	TEXT = Compound Action =
+		Move mouse to (460.5, 86.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "nl".
+ExecutedAction [9]: 
+ @Action ConcreteID = AC1sy6ow3811425798028 AbstractID = AA1sy6ow3811425798028
+ ConcreteID CUSTOM = ACC1sbnz01814151893885 AbstractID CUSTOM = AACer2me81b832911398
+ @State ConcreteID = SC1h85hnr2ace3712851070 AbstractID = SR10wzsv525f13336477321
+ ConcreteID CUSTOM = SCCqulwf52f1d3907078470 AbstractID CUSTOM = SACofyxoh11014171640333
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WCpb2jem312095011266, WR1uyc32532851330, WT1uyc32532851330, WP154u3742d864314255
+		ROLE = WdA
+		TITLE = 
+		SHAPE = Rect [x:1355.0 y:36.0 w:116.0 h:100.0]
+		CHILDREN = 1
+		PATH = [1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 3, 0]
+	DESCRIPTION = Left Click at 'Contact'
+	TEXT = Compound Action =
+		Move mouse to (1413.0, 86.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "nl".
+ExecutedAction [10]: 
+ @Action ConcreteID = AClky1by811172245306 AbstractID = AAlky1by811172245306
+ ConcreteID CUSTOM = ACC1j151p282817429000 AbstractID CUSTOM = AAC1hg7kv01e1445406259
+ @State ConcreteID = SC1auir6w17042605023982 AbstractID = SRa829ua143d2455283470
+ ConcreteID CUSTOM = SCC1xevx48194a1942242231 AbstractID CUSTOM = SAC1cxxj7o9011574263165
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC13bp6l371396208886, WR16rf8hj633150030, WT16rf8hj633150030, WP659bbf331577951379
+		ROLE = WdSPAN
+		TITLE = 
+		SHAPE = Rect [x:1431.0 y:66.0 w:40.0 h:40.0]
+		CHILDREN = 0
+		PATH = [1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 3, 0, 0]
+	DESCRIPTION = Left Click at 'span'
+	TEXT = Compound Action =
+		Move mouse to (1451.0, 86.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "nl".
+Sequence 1 finished.
+Sequence contained faults!
+Saved generated sequence ("./output\2022-01-21_21h52m31s_ou\sequences\2022-01-21_21h52m32s_ou_sequence_1.testar")
+Copying classified sequence ("./output\2022-01-21_21h52m31s_ou\sequences\2022-01-21_21h52m32s_ou_sequence_1.testar") to sequences_other folder...

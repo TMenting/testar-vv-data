@@ -1,0 +1,209 @@
+Detected fault: severity: 0.16 info: Failed to match "+".
+Starting sequence 1 (output as: ./output\2022-02-16_22h18m25s_apple\sequences\2022-02-16_22h18m26s_apple_sequence_1.testar)
+
+Detected fault: severity: 0.16 info: Failed to match "+".
+ExecutedAction [1]: 
+ @Action ConcreteID = AC1pe0qro813442122551 AbstractID = AA1pe0qro813442122551
+ ConcreteID CUSTOM = ACC10jjwmi821332387108 AbstractID CUSTOM = AACm8wyap1a2742303629
+ @State ConcreteID = SC13txikf1e5b1633462100 AbstractID = SR15efc3r1abf731277539
+ ConcreteID CUSTOM = SCC1qageya215d2481015871 AbstractID CUSTOM = SAC9sqb7m9e61646690244
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC12pdoxa1a2665972303, WR1uyc32532851330, WT1uyc32532851330, WP5il870161024899064
+		ROLE = WdA
+		TITLE = 
+		SHAPE = Rect [x:1420.0 y:70.0 w:29.0 h:44.0]
+		CHILDREN = 1
+		PATH = [2, 0, 1, 12, 0, 0]
+	DESCRIPTION = Left Click at 'a'
+	TEXT = Compound Action =
+		Move mouse to (1434.5, 92.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "+".
+ExecutedAction [2]: 
+ @Action ConcreteID = ACiopcxw7f1905866557 AbstractID = AAiopcxw7f1905866557
+ ConcreteID CUSTOM = ACC19rdnho813364885425 AbstractID CUSTOM = AAC1fbl32x1a1238665905
+ @State ConcreteID = SCb1gb891fb03528294853 AbstractID = SR1enwl9o1bee3935938032
+ ConcreteID CUSTOM = SCC18mdt7u22d61284606630 AbstractID CUSTOM = SAC3sxzqfa5b1435062845
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC1cu4d2g163806760512, WR1uyc32532851330, WT1uyc32532851330, WPgqpoja121897414702
+		ROLE = WdA
+		TITLE = 
+		SHAPE = Rect [x:786.0 y:70.0 w:51.0 h:44.0]
+		CHILDREN = 1
+		PATH = [2, 0, 1, 5, 0]
+	DESCRIPTION = Left Click at 'a'
+	TEXT = Compound Action =
+		Move mouse to (811.5, 92.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "+".
+ExecutedAction [3]: 
+ @Action ConcreteID = AC1hkh5rk7e2291403226 AbstractID = AA1hkh5rk7e2291403226
+ ConcreteID CUSTOM = ACCg3kc3q812252452369 AbstractID CUSTOM = AAC1csdyi91c3995344212
+ @State ConcreteID = SC9rjxvc46cb708154095 AbstractID = SRe1xa0c3e5057873574
+ ConcreteID CUSTOM = SCC1p4sd3e4da01667438263 AbstractID CUSTOM = SACjfs5hi17013939405488
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC1l7o16y163643265355, WR1uyc32532851330, WT1uyc32532851330, WPp49cns121255743269
+		ROLE = WdA
+		TITLE = 
+		SHAPE = Rect [x:862.0 y:70.0 w:58.0 h:44.0]
+		CHILDREN = 1
+		PATH = [1, 0, 1, 6, 0]
+	DESCRIPTION = Left Click at 'a'
+	TEXT = Compound Action =
+		Move mouse to (891.0, 92.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "+".
+ExecutedAction [4]: 
+ @Action ConcreteID = AC1ge7caa7f179442735 AbstractID = AA1ge7caa7f179442735
+ ConcreteID CUSTOM = ACC7kor1d81126507226 AbstractID CUSTOM = AAC1ugke7i1b190508091
+ @State ConcreteID = SC1406tfm3df766421365 AbstractID = SR152j6au36cc4067964377
+ ConcreteID CUSTOM = SCCu6uos443ff3124184166 AbstractID CUSTOM = SACupryv0150f1053186753
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC8twyo628893900170, WR1uyc32532851330, WTzbawss14575293455, WP1yy3q48241345374611
+		ROLE = WdA
+		TITLE = ac-gn-link-search
+		SHAPE = Rect [x:1364.0 y:70.0 w:31.0 h:44.0]
+		CHILDREN = 0
+		PATH = [1, 0, 1, 11, 0]
+	DESCRIPTION = Left Click at 'ac-gn-link-search'
+	TEXT = Compound Action =
+		Move mouse to (1379.5, 92.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "+".
+ExecutedAction [5]: 
+ @Action ConcreteID = AC1fagaib801609465506 AbstractID = AA1fagaib801609465506
+ ConcreteID CUSTOM = ACC4c6s49811317128186 AbstractID CUSTOM = AAC1lvctl213068917440
+ @State ConcreteID = SCa30w6y402e3664446725 AbstractID = SR1yp734c38da2634998261
+ ConcreteID CUSTOM = SCC1y313nw4690627895715 AbstractID CUSTOM = SAC1uebnsl16324268816870
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC4ymiap233933966460, WRu7xjkv81040484184, WT1j1n5q6132355692474, WP1mrcec31f1599119906
+		ROLE = WdBUTTON
+		TITLE = ac-ls-close
+		SHAPE = Rect [x:1426.0 y:26.0 w:16.0 h:18.0]
+		CHILDREN = 1
+		PATH = [0, 0, 1, 2]
+	DESCRIPTION = Left Click at 'ac-ls-close'
+	TEXT = Compound Action =
+		Move mouse to (1434.0, 35.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "+".
+ExecutedAction [6]: 
+ @Action ConcreteID = AC1oczoab801218240512 AbstractID = AA1oczoab801218240512
+ ConcreteID CUSTOM = ACCj64cr6802546779807 AbstractID CUSTOM = AAC8ho1ca1d1044499262
+ @State ConcreteID = SC17133nr3d0d3209134490 AbstractID = SRccvq4v35f22629929916
+ ConcreteID CUSTOM = SCCch0kv742d03496660637 AbstractID CUSTOM = SAC1cgab5q146c1726518130
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC1tl7pbg162034768269, WR1uyc32532851330, WT1uyc32532851330, WPxht0sa123937851363
+		ROLE = WdA
+		TITLE = 
+		SHAPE = Rect [x:945.0 y:0.0 w:81.0 h:44.0]
+		CHILDREN = 1
+		PATH = [0, 0, 1, 7, 0]
+	DESCRIPTION = Left Click at 'a'
+	TEXT = Compound Action =
+		Move mouse to (985.5, 22.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "+".
+ExecutedAction [7]: 
+ @Action ConcreteID = ACqzupt0801976716915 AbstractID = AAqzupt0801976716915
+ ConcreteID CUSTOM = ACC14v033d813083093743 AbstractID CUSTOM = AACz8frcd1a641733072
+ @State ConcreteID = SC1dm1pzh2fbb2686725614 AbstractID = SR1c22uyv2a6d276799489
+ ConcreteID CUSTOM = SCC1j7fs4734491467055585 AbstractID CUSTOM = SAC7ncl1710a8857066633
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC1thwxra164127779885, WR1uyc32532851330, WT1uyc32532851330, WPxei984121710629443
+		ROLE = WdA
+		TITLE = 
+		SHAPE = Rect [x:508.0 y:0.0 w:46.0 h:44.0]
+		CHILDREN = 1
+		PATH = [0, 0, 1, 1, 0]
+	DESCRIPTION = Left Click at 'a'
+	TEXT = Compound Action =
+		Move mouse to (531.0, 22.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "+".
+ExecutedAction [8]: 
+ @Action ConcreteID = AC1pvwpnu81747988093 AbstractID = AA1pvwpnu81747988093
+ ConcreteID CUSTOM = ACC1hsik9t82845692284 AbstractID CUSTOM = AAC19cu85x1c1636454933
+ @State ConcreteID = SCn2is7x59223742436450 AbstractID = SRb94ak34eda4102047347
+ ConcreteID CUSTOM = SCC2t8yxo62123720934598 AbstractID CUSTOM = SAC8r0xx61c344222299791
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC1dyqnc6283767891159, WR1uyc32532851330, WT1uyc32532851330, WPjoxyes241856847
+		ROLE = WdA
+		TITLE = 
+		SHAPE = Rect [x:1301.0 y:227.0 w:100.0 h:16.0]
+		CHILDREN = 1
+		PATH = [0, 2, 1, 0, 1, 0, 0, 0, 1, 1, 0]
+	DESCRIPTION = Left Click at 'Ask a Specialist'
+	TEXT = Compound Action =
+		Move mouse to (1351.0, 235.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.1 info: "Call us 5AM - 9PM PST at." matched 92%.
+Screenshot was empty./output\2022-02-16_22h18m25s_apple\scrshots\2022-02-16_22h18m26s_apple_sequence_1\SCCi9mekj3601561904869_ACC5abkfx1f845976469.png>
+ExecutedAction [9]: 
+ @Action ConcreteID = AC1pund7h1e4289598146 AbstractID = AA1pund7h1e4289598146
+ ConcreteID CUSTOM = ACC5abkfx1f845976469 AbstractID CUSTOM = AAC1d4ae631f1835996386
+ @State ConcreteID = SCgz8fzo31b1604034857 AbstractID = SR1nv70fz2bd3434033651
+ ConcreteID CUSTOM = SCCi9mekj3601561904869 AbstractID CUSTOM = SACxxdlg31141113596018
+
+	ROLE = CloseTabScript
+	DESCRIPTION = Execute Webdriver script to close the current tab
+	TEXT = org.fruit.alayer.actions.WdCloseTabAction@dd737ea
+
+Detected fault: severity: 0.16 info: Failed to match "+".
+ExecutedAction [10]: 
+ @Action ConcreteID = AC1ci9hxi80124546567 AbstractID = AA1ci9hxi80124546567
+ ConcreteID CUSTOM = ACC1jl63a481454743639 AbstractID CUSTOM = AACwt3tg61c862086781
+ @State ConcreteID = SC12ccgfc59211343866014 AbstractID = SRper8ds4edc199564071
+ ConcreteID CUSTOM = SCC1pca99l62143446063281 AbstractID CUSTOM = SAC13yerp1c422449042268
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC1ewn1oe191631101430, WR1uyc32532851330, WT1uyc32532851330, WP1tviecw15739074708
+		ROLE = WdA
+		TITLE = 
+		SHAPE = Rect [x:945.0 y:0.0 w:81.0 h:44.0]
+		CHILDREN = 1
+		PATH = [0, 0, 0, 1, 7, 0]
+	DESCRIPTION = Left Click at 'a'
+	TEXT = Compound Action =
+		Move mouse to (985.5, 22.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "+".
+Sequence 1 finished.
+Sequence contained faults!
+Saved generated sequence ("./output\2022-02-16_22h18m25s_apple\sequences\2022-02-16_22h18m26s_apple_sequence_1.testar")
+Copying classified sequence ("./output\2022-02-16_22h18m25s_apple\sequences\2022-02-16_22h18m26s_apple_sequence_1.testar") to sequences_other folder...

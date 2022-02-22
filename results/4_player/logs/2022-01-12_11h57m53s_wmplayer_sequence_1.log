@@ -1,0 +1,218 @@
+Detected fault: severity: 0.15 info: "View options" matched 8%.
+Starting sequence 1 (output as: ./output\2022-01-12_11h57m53s_wmplayer\sequences\2022-01-12_11h57m53s_wmplayer_sequence_1.testar)
+
+Detected fault: severity: 0.15 info: "View options" matched 8%.
+ExecutedAction [1]: 
+ @Action ConcreteID = ACot027i7f2732811885 AbstractID = AAot027i7f2732811885
+ ConcreteID CUSTOM = ACC1agdqzv804119220121 AbstractID CUSTOM = AAC1nutfyy213149077684
+ @State ConcreteID = SC1ojzx43c25663310938 AbstractID = SR10gk7w9b54775782591
+ ConcreteID CUSTOM = SCCqv3kwad564276037308 AbstractID CUSTOM = SACwkmf76b521920166793
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC14bv3hx273616525109, WR1h6ibpb92248851252, WT1uhxpd2e2104358879, WP1bb1irn23770923572
+		ROLE = UIAButton
+		TITLE = Music
+		SHAPE = Rect [x:683.0 y:247.0 w:39.0 h:21.0]
+		CHILDREN = 0
+		PATH = [0, 0, 1, 1, 2, 3, 0]
+	DESCRIPTION = Left Click at 'Music'
+	TEXT = Compound Action =
+		Move mouse to (702.5, 257.5).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.15 info: "View options" matched 17%.
+ExecutedAction [2]: 
+ @Action ConcreteID = ACc4ngzq801755798507 AbstractID = AAc4ngzq801755798507
+ ConcreteID CUSTOM = ACC1bbx35n821172269327 AbstractID CUSTOM = AACbi1jmo224105851433
+ @State ConcreteID = SC7gxymbc233651251487 AbstractID = SRt2146jb59598805038
+ ConcreteID CUSTOM = SCC13erxfcd533569251447 AbstractID CUSTOM = SAC1n6cavtb472095107009
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC1cojm08262263288072, WR1h6ibpb92248851252, WT1gjr4tqd3122637438, WP181snp222205529690
+		ROLE = UIAButton
+		TITLE = Burn
+		SHAPE = Rect [x:1303.0 y:245.0 w:79.0 h:30.0]
+		CHILDREN = 0
+		PATH = [0, 0, 1, 1, 4, 0, 0]
+	DESCRIPTION = Left Click at 'Burn'
+	TEXT = Compound Action =
+		Move mouse to (1342.5, 260.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.15 info: "View options" matched 8%.
+ExecutedAction [3]: 
+ @Action ConcreteID = ACmfmj4o7f1587003294 AbstractID = AAmfmj4o7f1587003294
+ ConcreteID CUSTOM = ACCnjl8jg811903321046 AbstractID CUSTOM = AACzdyfs9231939427319
+ @State ConcreteID = SCnj7wd2bc22928710460 AbstractID = SR1d9ako6af53523808155
+ ConcreteID CUSTOM = SCC146hlvoce11708540364 AbstractID CUSTOM = SAC1fk5mi4ae81860277076
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC1f0h9tv212394197384, WR5quxi6b4097176690, WT5quxi6b4097176690, WP1bni7ed1d3034249418
+		ROLE = UIATreeItem
+		TITLE = 
+		SHAPE = Rect [x:571.0 y:463.0 w:3.0 h:20.0]
+		CHILDREN = 0
+		PATH = [0, 0, 0, 0, 9, 8]
+	DESCRIPTION = Left Click at ''
+	TEXT = Compound Action =
+		Move mouse to (572.5, 473.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "Rating".
+ExecutedAction [4]: 
+ @Action ConcreteID = AC15tux097f2628419364 AbstractID = AA15tux097f2628419364
+ ConcreteID CUSTOM = ACC1cr198a8134444790 AbstractID CUSTOM = AAC1utlmx0263156551628
+ @State ConcreteID = SCnj7wd2bc22928710460 AbstractID = SR1d9ako6af53523808155
+ ConcreteID CUSTOM = SCC1vqwz47ce12337222725 AbstractID CUSTOM = SAC1fk5mi4ae81860277076
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WCm1fp9k303214486620, WR1e04pz3e358922214, WTi37mte1a2070600069, WPq235p62c3982440174
+		ROLE = UIASplitButton
+		TITLE = View options
+		SHAPE = Rect [x:903.0 y:276.0 w:42.0 h:25.0]
+		CHILDREN = 0
+		PATH = [0, 0, 0, 0, 2, 0]
+	DESCRIPTION = Left Click at 'View options'
+	TEXT = Compound Action =
+		Move mouse to (924.0, 288.5).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "Search options".
+ExecutedAction [5]: 
+ @Action ConcreteID = AC11y01m77f243420626 AbstractID = AA11y01m77f243420626
+ ConcreteID CUSTOM = ACC18v6du8812418386688 AbstractID CUSTOM = AACem4hnp232153952770
+ @State ConcreteID = SCnj7wd2bc22928710460 AbstractID = SR1d9ako6af53523808155
+ ConcreteID CUSTOM = SCC1vqwz47ce12337222725 AbstractID CUSTOM = SAC1fk5mi4ae81860277076
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WCypgb6y292857962504, WR52qhb2b3065858412, WTqijxtx102270623098, WPnde3ug252216591359
+		ROLE = UIAListItem
+		TITLE = Genre
+		SHAPE = Rect [x:912.0 y:348.0 w:75.0 h:53.0]
+		CHILDREN = 0
+		PATH = [0, 0, 0, 0, 8, 0, 3]
+	DESCRIPTION = Left Click at 'Genre'
+	TEXT = Compound Action =
+		Move mouse to (949.5, 374.5).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.15 info: "View options" matched 8%.
+ExecutedAction [6]: 
+ @Action ConcreteID = ACkrdllb7f2359143683 AbstractID = AAkrdllb7f2359143683
+ ConcreteID CUSTOM = ACCzhrlk38060642178 AbstractID CUSTOM = AACzdyfs82377496161
+ @State ConcreteID = SCnj7wd2bc22928710460 AbstractID = SR1d9ako6af53523808155
+ ConcreteID CUSTOM = SCCj6kouyce33912642476 AbstractID CUSTOM = SAC1fk5mi4ae81860277076
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC19zguxo2c2901477254, WR5quxi6b4097176690, WT1saxdjq163726524061, WPla607i284216655025
+		ROLE = UIATreeItem
+		TITLE = Other media
+		SHAPE = Rect [x:571.0 y:443.0 w:69.0 h:20.0]
+		CHILDREN = 0
+		PATH = [0, 0, 0, 0, 9, 7]
+	DESCRIPTION = Left Click at 'Other media'
+	TEXT = Compound Action =
+		Move mouse to (605.5, 453.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "Type".
+ExecutedAction [7]: 
+ @Action ConcreteID = ACp3f6gv7f950470938 AbstractID = AAp3f6gv7f950470938
+ ConcreteID CUSTOM = ACCtl24t680157814448 AbstractID CUSTOM = AAC14hxjmt23450702808
+ @State ConcreteID = SCj5syg1b493227769017 AbstractID = SRb3t1jva81801215425
+ ConcreteID CUSTOM = SCC1a9g0dnc5b829051061 AbstractID CUSTOM = SAC1l0aroja813695483101
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WCyw7zym2a711416842, WR5quxi6b4097176690, WTgkgyn714232502229, WP1kgo9c0261517680266
+		ROLE = UIATreeItem
+		TITLE = Playlists
+		SHAPE = Rect [x:571.0 y:343.0 w:44.0 h:20.0]
+		CHILDREN = 0
+		PATH = [0, 0, 0, 0, 9, 2]
+	DESCRIPTION = Left Click at 'Playlists'
+	TEXT = Compound Action =
+		Move mouse to (593.0, 353.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "Playlists".
+ExecutedAction [8]: 
+ @Action ConcreteID = AC2fr3r17f730056967 AbstractID = AA2fr3r17f730056967
+ ConcreteID CUSTOM = ACCttkc347f1447672858 AbstractID CUSTOM = AAC1tci8he253472941496
+ @State ConcreteID = SC18nvi7sae3571975248 AbstractID = SR1w8pphya243679175010
+ ConcreteID CUSTOM = SCC17m8p70bef41566541 AbstractID CUSTOM = SAC4vtfiba221894203489
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WCatknx332629575804, WR1e04pz3e358922214, WTjsed4n1d3619800219, WPxzovnz2f4041609159
+		ROLE = UIASplitButton
+		TITLE = Create playlist
+		SHAPE = Rect [x:694.0 y:276.0 w:101.0 h:26.0]
+		CHILDREN = 0
+		PATH = [0, 0, 0, 0, 4, 2]
+	DESCRIPTION = Left Click at 'Create playlist'
+	TEXT = Compound Action =
+		Move mouse to (744.5, 289.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "Untitled playlist".
+ExecutedAction [9]: 
+ @Action ConcreteID = AC1br42e57e4128157503 AbstractID = AA1br42e57e4128157503
+ ConcreteID CUSTOM = ACCpwwm7f80158709050 AbstractID CUSTOM = AAC6qbwzy213776177611
+ @State ConcreteID = SCni6bob0b2349952330 AbstractID = SR9c8ekpa4a910469563
+ ConcreteID CUSTOM = SCCphr3pjc1c3742224250 AbstractID CUSTOM = SAC1p4wjoqa481973432226
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WCnl449x323830696362, WR1h6ibpb92248851252, WT1dr2k7p192977365428, WP43ducz2e3421075915
+		ROLE = UIAButton
+		TITLE = Library Dropdown
+		SHAPE = Rect [x:669.0 y:247.0 w:13.0 h:21.0]
+		CHILDREN = 0
+		PATH = [0, 0, 1, 1, 2, 2, 0]
+	DESCRIPTION = Left Click at 'Library Dropdown'
+	TEXT = Compound Action =
+		Move mouse to (675.5, 257.5).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "Count".
+ExecutedAction [10]: 
+ @Action ConcreteID = ACya0nl1804240100145 AbstractID = AAya0nl1804240100145
+ ConcreteID CUSTOM = ACC1gaak4h811121084504 AbstractID CUSTOM = AACje6sqj23593360267
+ @State ConcreteID = SC1vixuysb731575918061 AbstractID = SR103au6laaf4269776826
+ ConcreteID CUSTOM = SCC11hdg0uc8c3303294676 AbstractID CUSTOM = SAC1b7dv1faa72058681349
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WCpow3u31a1642479444, WR17v7k2nb1067391859, WTgi41za102607321662, WPl8aonx163382517549
+		ROLE = UIAMenuItem
+		TITLE = Music
+		SHAPE = Rect [x:685.0 y:269.0 w:136.0 h:21.0]
+		CHILDREN = 0
+		PATH = [1, 0]
+	DESCRIPTION = Left Click at 'Music'
+	TEXT = Compound Action =
+		Move mouse to (753.0, 279.5).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.15 info: "Library" matched 0%.
+Sequence 1 finished.
+Sequence contained faults!
+Saved generated sequence ("./output\2022-01-12_11h57m53s_wmplayer\sequences\2022-01-12_11h57m53s_wmplayer_sequence_1.testar")
+Copying classified sequence ("./output\2022-01-12_11h57m53s_wmplayer\sequences\2022-01-12_11h57m53s_wmplayer_sequence_1.testar") to sequences_other folder...

@@ -1,0 +1,218 @@
+Detected fault: severity: 0.16 info: Failed to match "Sections".
+Starting sequence 1 (output as: ./output\2022-02-03_12h35m25s_nytimes\sequences\2022-02-03_12h35m26s_nytimes_sequence_1.testar)
+
+Detected fault: severity: 0.16 info: Failed to match "Sections".
+ExecutedAction [1]: 
+ @Action ConcreteID = AC1m72yf781935945278 AbstractID = AA1m72yf781935945278
+ ConcreteID CUSTOM = ACC3es5tj814180267977 AbstractID CUSTOM = AAC14b74961d1468499544
+ @State ConcreteID = SCvoa7i471d92863642124 AbstractID = SR10rlubr65c23745892888
+ ConcreteID CUSTOM = SCC7xd7i97cf6827367386 AbstractID CUSTOM = SAC166gvrq22ec3751246936
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC1gc66sb20341070895, WR1uyc32532851330, WT1uyc32532851330, WP1u3zs151c2680083183
+		ROLE = WdA
+		TITLE = 
+		SHAPE = Rect [x:1360.0 y:381.0 w:65.0 h:24.0]
+		CHILDREN = 0
+		PATH = [0, 1, 1, 0, 5, 0, 17, 0]
+	DESCRIPTION = Left Click at 'Real Estate'
+	TEXT = Compound Action =
+		Move mouse to (1392.5, 393.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "Sections".
+ExecutedAction [2]: 
+ @Action ConcreteID = AC18b5we813735634721 AbstractID = AA18b5we813735634721
+ ConcreteID CUSTOM = ACCvyl3m682368104220 AbstractID CUSTOM = AAC19prqsm1c3214067435
+ @State ConcreteID = SCcwm5gz32ef3786178111 AbstractID = SR1h0uxs12d481756211014
+ ConcreteID CUSTOM = SCC1ba7cmv3835980819888 AbstractID CUSTOM = SAC17lg6511bf4171647815
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WCj0qix4343443580928, WR1uyc32532851330, WT1uyc32532851330, WPcg9gd2303232229333
+		ROLE = WdA
+		TITLE = 
+		SHAPE = Rect [x:1476.0 y:985.0 w:75.0 h:17.0]
+		CHILDREN = 1
+		PATH = [0, 1, 0, 2, 1, 0, 0, 1, 2, 0, 1, 0, 0, 2, 0]
+	DESCRIPTION = Left Click at 'a'
+	TEXT = Compound Action =
+		Move mouse to (1513.5, 993.5).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "Sections".
+ExecutedAction [3]: 
+ @Action ConcreteID = AC14jk6rh7f1279767535 AbstractID = AA14jk6rh7f1279767535
+ ConcreteID CUSTOM = ACCfsr2x580546305925 AbstractID CUSTOM = AAC1g037f81b860634864
+ @State ConcreteID = SCfc1civ328d2614015750 AbstractID = SR4d2r1f2d68492799389
+ ConcreteID CUSTOM = SCCksclch37952749011470 AbstractID CUSTOM = SAC2g5ma712033280387215
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC181sjdy223610266591, WR1uyc32532851330, WT1uyc32532851330, WP1vzqgs41e403779950
+		ROLE = WdA
+		TITLE = 
+		SHAPE = Rect [x:239.0 y:10.0 w:93.0 h:18.0]
+		CHILDREN = 0
+		PATH = [0, 0, 0, 0, 1, 0, 0, 1, 0]
+	DESCRIPTION = Left Click at 'Real Estate'
+	TEXT = Compound Action =
+		Move mouse to (285.5, 19.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "Sections".
+ExecutedAction [4]: 
+ @Action ConcreteID = AC1p7igdd803262737560 AbstractID = AA1p7igdd803262737560
+ ConcreteID CUSTOM = ACCegciqw823555981360 AbstractID CUSTOM = AAC1p1ris71b873543047
+ @State ConcreteID = SCcwm5gz32ef3786178111 AbstractID = SR1h0uxs12d481756211014
+ ConcreteID CUSTOM = SCC1akn9y1381c1600467698 AbstractID CUSTOM = SAC17lg6511bf4171647815
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WCh20phq22203325450, WR1uyc32532851330, WT1uyc32532851330, WP14zymvw1e3275750075
+		ROLE = WdA
+		TITLE = 
+		SHAPE = Rect [x:737.0 y:469.0 w:72.0 h:14.0]
+		CHILDREN = 0
+		PATH = [0, 1, 0, 2, 0, 1, 0, 4, 0]
+	DESCRIPTION = Left Click at 'What You Get'
+	TEXT = Compound Action =
+		Move mouse to (773.0, 476.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "Sections".
+ExecutedAction [5]: 
+ @Action ConcreteID = ACaomiyn812040630784 AbstractID = AAaomiyn812040630784
+ ConcreteID CUSTOM = ACCbqh9ya83725882950 AbstractID CUSTOM = AAC46qwj31b2543914359
+ @State ConcreteID = SCws0j3y1f053854715337 AbstractID = SR12edv6c1b751762378906
+ ConcreteID CUSTOM = SCC1vmayuv22192916560495 AbstractID CUSTOM = SAC1u1tw2b113199613954
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WCizmxqe343078665056, WR1uyc32532851330, WT1uyc32532851330, WPcf5v6c303127358645
+		ROLE = WdA
+		TITLE = 
+		SHAPE = Rect [x:1326.0 y:823.0 w:200.0 h:61.0]
+		CHILDREN = 0
+		PATH = [0, 1, 0, 2, 1, 0, 0, 1, 2, 0, 1, 0, 0, 0, 0]
+	DESCRIPTION = Left Click at '$1.4 Million Homes in California'
+	TEXT = Compound Action =
+		Move mouse to (1426.0, 853.5).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "Sections".
+ExecutedAction [6]: 
+ @Action ConcreteID = ACsfspdh813303161819 AbstractID = AAsfspdh813303161819
+ ConcreteID CUSTOM = ACC1wf1nxv801569234463 AbstractID CUSTOM = AAC3syfh11a359262789
+ @State ConcreteID = SC1pkacgo1e0a3831809746 AbstractID = SRrj9wwt1abf4055962548
+ ConcreteID CUSTOM = SCCa4t6io20fc161169203 AbstractID CUSTOM = SACz9e16xbe12918827779
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC182w4ko222918193343, WR1uyc32532851330, WT1uyc32532851330, WP1w0u1yu1e1657889294
+		ROLE = WdA
+		TITLE = 
+		SHAPE = Rect [x:1521.0 y:4.0 w:156.0 h:32.0]
+		CHILDREN = 0
+		PATH = [0, 0, 0, 0, 1, 0, 0, 3, 0]
+	DESCRIPTION = Left Click at 'Subscribe for $1/week'
+	TEXT = Compound Action =
+		Move mouse to (1599.0, 20.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "/week".
+ExecutedAction [7]: 
+ @Action ConcreteID = AC1jsuhfl7f1773028953 AbstractID = AA1jsuhfl7f1773028953
+ ConcreteID CUSTOM = ACC184v0j07f2806607931 AbstractID CUSTOM = AAC5obioa1a1741228892
+ @State ConcreteID = SC158ezuq9463218158675 AbstractID = SR1u5zdi8334169983943
+ ConcreteID CUSTOM = SCC1g7jtj6a25390818765 AbstractID CUSTOM = SACdqopem3064016069881
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC1215utj10963081053, WR1uyc32532851330, WT1uyc32532851330, WPlbol5hc1548548650
+		ROLE = WdA
+		TITLE = 
+		SHAPE = Rect [x:208.0 y:56.0 w:212.0 h:30.0]
+		CHILDREN = 1
+		PATH = [0, 1, 0]
+	DESCRIPTION = Left Click at 'a'
+	TEXT = Compound Action =
+		Move mouse to (314.0, 71.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "Sections".
+ExecutedAction [8]: 
+ @Action ConcreteID = AC14xwk6u803084344455 AbstractID = AA14xwk6u803084344455
+ ConcreteID CUSTOM = ACCm9itle822648512863 AbstractID CUSTOM = AAC14b749y1d3852698657
+ @State ConcreteID = SCvoa7i471d92863642124 AbstractID = SR10rlubr65c23745892888
+ ConcreteID CUSTOM = SCC1g9yohu7cf43244992937 AbstractID CUSTOM = SAC166gvrq22ec3751246936
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC1n22bwk1f585221001, WR1uyc32532851330, WT1uyc32532851330, WP6sugxi1b1994385875
+		ROLE = WdA
+		TITLE = 
+		SHAPE = Rect [x:786.0 y:385.0 w:48.0 h:24.0]
+		CHILDREN = 0
+		PATH = [0, 1, 1, 0, 5, 0, 7, 0]
+	DESCRIPTION = Left Click at 'Science'
+	TEXT = Compound Action =
+		Move mouse to (810.0, 397.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "Sections".
+ExecutedAction [9]: 
+ @Action ConcreteID = AC1ko3adz7f1833008020 AbstractID = AA1ko3adz7f1833008020
+ ConcreteID CUSTOM = ACC1ebq4ib804047837254 AbstractID CUSTOM = AAC1uz0u9y1a2713626533
+ @State ConcreteID = SCixptjk2ed6892489169 AbstractID = SRpp6rsj29812047863700
+ ConcreteID CUSTOM = SCCh83nsi3366357765844 AbstractID CUSTOM = SACzmqhw6f971870019625
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WCchgajs1c3785372923, WR1uyc32532851330, WT1uyc32532851330, WPb36bzq18479685462
+		ROLE = WdA
+		TITLE = 
+		SHAPE = Rect [x:1324.0 y:4.0 w:156.0 h:32.0]
+		CHILDREN = 0
+		PATH = [0, 0, 1, 0, 0, 3, 0]
+	DESCRIPTION = Left Click at 'Subscribe for $1/week'
+	TEXT = Compound Action =
+		Move mouse to (1402.0, 20.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "/week".
+ExecutedAction [10]: 
+ @Action ConcreteID = AC1jtajho803886181977 AbstractID = AA1jtajho803886181977
+ ConcreteID CUSTOM = ACC1dbb9b5801154517275 AbstractID CUSTOM = AAC5obiob1a4274019046
+ @State ConcreteID = SC158ezuq9463218158675 AbstractID = SR1u5zdi8334169983943
+ ConcreteID CUSTOM = SCC1g7jtj6a25390818765 AbstractID CUSTOM = SACdqopem3064016069881
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WCzfx3sm1f3300780556, WR1uyc32532851330, WT1uyc32532851330, WP1i7taso1b2424553558
+		ROLE = WdA
+		TITLE = 
+		SHAPE = Rect [x:208.0 y:413.0 w:400.0 h:45.0]
+		CHILDREN = 1
+		PATH = [0, 2, 0, 0, 1, 1, 0, 0]
+	DESCRIPTION = Left Click at 'a'
+	TEXT = Compound Action =
+		Move mouse to (408.0, 435.5).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "2022".
+Sequence 1 finished.
+Sequence contained faults!
+Saved generated sequence ("./output\2022-02-03_12h35m25s_nytimes\sequences\2022-02-03_12h35m26s_nytimes_sequence_1.testar")
+Copying classified sequence ("./output\2022-02-03_12h35m25s_nytimes\sequences\2022-02-03_12h35m26s_nytimes_sequence_1.testar") to sequences_other folder...

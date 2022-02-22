@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <tesseractSettings>
+        <dataPath>C:\Users\Tycho\AppData\Local\Tesseract-OCR\tessdata</dataPath>
+        <language>eng</language>
+        <imageResolution>144</imageResolution>
+        <loggingEnabled>true</loggingEnabled>
+        <saveImageBufferToDisk>true</saveImageBufferToDisk>
+    </tesseractSettings>
+    <widgetTextConfiguration>
+        <widget>
+            <role>WdA</role>
+            <tag/>
+            <ignore>true</ignore>
+            <ancestor>::WdDIV::Process</ancestor>
+        </widget>
+        <loggingEnabled>true</loggingEnabled>
+    </widgetTextConfiguration>
+    <visualValidationSettings>
+        <enabled>true</enabled>
+        <ocrConfiguration>
+            <enabled>true</enabled>
+            <engine>tesseract</engine>
+        </ocrConfiguration>
+        <matcherConfiguration>
+            <locationMatchMargin>0</locationMatchMargin>
+            <loggingEnabled>true</loggingEnabled>
+            <failedToMatchPercentageThreshold>75</failedToMatchPercentageThreshold>
+        </matcherConfiguration>
+        <protocol>webdriver_generic/Protocol_webdriver_generic</protocol>
+    </visualValidationSettings>
+    <version>1</version>
+</root>

@@ -1,0 +1,182 @@
+Detected fault: severity: 0.16 info: Failed to match "Pencil".
+Starting sequence 1 (output as: ./output\2021-10-10_16h52m01s_mspaint\sequences\2021-10-10_16h52m01s_mspaint_sequence_1.testar)
+
+Detected fault: severity: 0.16 info: Failed to match "Pencil".
+ExecutedAction [1]: 
+ @Action ConcreteID = AC1gn40ts7f2268341821 AbstractID = AA1gn40ts7f2268341821
+ ConcreteID CUSTOM = ACC1kwjhze811645536515 AbstractID CUSTOM = AACt9dxja242837978305
+ @State ConcreteID = SCvski3a7c61320656131 AbstractID = SR103fw2i7822113527562
+ ConcreteID CUSTOM = SCC15au5q589f2444293479 AbstractID CUSTOM = SACt0w3gr73f209012554
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC15hzajh3b2836594487, WR1e04pz3e358922214, WT1nyc1n81347027752, WP1vlpxu737535015440
+		ROLE = UIASplitButton
+		TITLE = Paste
+		SHAPE = Rect [x:471.0 y:219.0 w:41.0 h:29.0]
+		CHILDREN = 0
+		PATH = [0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 1]
+	DESCRIPTION = Left Click at 'Paste'
+	TEXT = Compound Action =
+		Move mouse to (491.5, 233.5).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "Pencil".
+ExecutedAction [2]: 
+ @Action ConcreteID = AC1pdookr7f255987203 AbstractID = AA1pdookr7f255987203
+ ConcreteID CUSTOM = ACC165co4o7f3867885645 AbstractID CUSTOM = AACxo20v321536585558
+ @State ConcreteID = SCudjv7188b3640097840 AbstractID = SR1oh992o830946353701
+ ConcreteID CUSTOM = SCCyb4k3b96a418037835 AbstractID CUSTOM = SAC1nz6z6r7e62539394287
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WCrnmcrt2a2149407738, WR1h6ibpb92248851252, WT15mxqds113725400979, WP5yg5iv263882443495
+		ROLE = UIAButton
+		TITLE = File tab
+		SHAPE = Rect [x:465.0 y:155.0 w:56.0 h:23.0]
+		CHILDREN = 0
+		PATH = [0, 1, 0, 0, 0, 0, 2]
+	DESCRIPTION = Left Click at 'File tab'
+	TEXT = Compound Action =
+		Move mouse to (493.0, 166.5).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "Eraser".
+ExecutedAction [3]: 
+ @Action ConcreteID = ACn1h62r812372342553 AbstractID = AAn1h62r812372342553
+ ConcreteID CUSTOM = ACC14u8k85811965565044 AbstractID CUSTOM = AAC1g2gtt8213247673713
+ @State ConcreteID = SC19vqrj7af62508821651 AbstractID = SR1mc2ftya843129177174
+ ConcreteID CUSTOM = SCCfwqzyyc1b3174185973 AbstractID CUSTOM = SAC1o4du4qa333204896411
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC7odzrk203509173352, WR1h6ibpb92248851252, WTmtuksz10571412668, WP6q7y9u1c3621232202
+		ROLE = UIAButton
+		TITLE = Zoom in
+		SHAPE = Rect [x:1423.0 y:694.0 w:22.0 h:23.0]
+		CHILDREN = 0
+		PATH = [0, 4, 0, 3]
+	DESCRIPTION = Left Click at 'Zoom in'
+	TEXT = Compound Action =
+		Move mouse to (1434.0, 705.5).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "Pencil".
+ExecutedAction [4]: 
+ @Action ConcreteID = ACxaffml813884045805 AbstractID = AAxaffml813884045805
+ ConcreteID CUSTOM = ACC1mmlv2j823973672444 AbstractID CUSTOM = AAC1xgkokh1f4260605113
+ @State ConcreteID = SC1pkgarh7c61206477784 AbstractID = SR103fw2i7822113527562
+ ConcreteID CUSTOM = SCC12bbdf589f3716187788 AbstractID CUSTOM = SACt0w3gr73f209012554
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WCh6hj1s393455879920, WR1h6ibpb92248851252, WT1q8v287142545663383, WP1nbxse6353732665326
+		ROLE = UIAButton
+		TITLE = Edit colors
+		SHAPE = Rect [x:1345.0 y:182.0 w:41.0 h:66.0]
+		CHILDREN = 0
+		PATH = [0, 0, 0, 0, 0, 0, 6, 0, 0, 6, 3]
+	DESCRIPTION = Left Click at 'Edit colors'
+	TEXT = Compound Action =
+		Move mouse to (1365.5, 215.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "o".
+ExecutedAction [5]: 
+ @Action ConcreteID = ACj06rx1fc616617342 AbstractID = AA5bi04kd6330143839
+ ConcreteID CUSTOM = ACC1rus88zfd2522318674 AbstractID CUSTOM = AACqge5i11e3932938029
+ @State ConcreteID = SC1gmmbmra292270545426 AbstractID = SR1pwz98v9a03821835235
+ ConcreteID CUSTOM = SCC1bvxtryb283724866098 AbstractID CUSTOM = SACdm37pk9651087037216
+
+	ROLE = ClickTypeInto
+	TARGET =
+		WIDGET = WCxu881e192923715078, WR4n0dlj72701565195, WT9bj6f4b478215861, WP1kufag4151703931993
+		ROLE = UIAEdit
+		TITLE = Red:
+		SHAPE = Rect [x:1145.0 y:489.0 w:27.0 h:20.0]
+		CHILDREN = 0
+		PATH = [0, 0, 20]
+	DESCRIPTION = Type '03-22-2017' into 'Red:
+	TEXT = Compound Action =
+		Compound Action =
+		Move mouse to (1158.5, 499.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+		Press Key VK_CONTROL
+		Press Key VK_A
+		Release Key VK_A
+		Release Key VK_CONTROL
+		Type text '03-22-2017'
+
+Detected fault: severity: 0.16 info: Failed to match "o".
+ExecutedAction [6]: 
+ @Action ConcreteID = AC92v3q8814207595372 AbstractID = AA92v3q8814207595372
+ ConcreteID CUSTOM = ACC1ygvl62824256789316 AbstractID CUSTOM = AACtr901b202978088773
+ @State ConcreteID = SC1gmmbmra292270545426 AbstractID = SR1pwz98v9a03821835235
+ ConcreteID CUSTOM = SCC14g1kpub272792423778 AbstractID CUSTOM = SACdm37pk9651087037216
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC1q84kyt2b3658240914, WR1h6ibpb92248851252, WT1tr92xk1d3487346199, WPn23g9j271604673751
+		ROLE = UIAButton
+		TITLE = Add to Custom Colors
+		SHAPE = Rect [x:969.0 y:559.0 w:213.0 h:23.0]
+		CHILDREN = 0
+		PATH = [0, 0, 25]
+	DESCRIPTION = Left Click at 'Add to Custom Colors'
+	TEXT = Compound Action =
+		Move mouse to (1075.5, 570.5).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "o".
+ExecutedAction [7]: 
+ @Action ConcreteID = AC17937ep804287009421 AbstractID = AA17937ep804287009421
+ ConcreteID CUSTOM = ACC1nv3nav7f3761114718 AbstractID CUSTOM = AACtr901d201491182192
+ @State ConcreteID = SC1gmmbmra292270545426 AbstractID = SR1pwz98v9a03821835235
+ ConcreteID CUSTOM = SCCt41zlhb26578505093 AbstractID CUSTOM = SACdm37pk9651087037216
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC1w5f2ij1c2629542786, WR1h6ibpb92248851252, WT1vjbvvdf3603144044, WP8jd2h5181148990926
+		ROLE = UIAButton
+		TITLE = Cancel
+		SHAPE = Rect [x:819.0 y:559.0 w:66.0 h:23.0]
+		CHILDREN = 0
+		PATH = [0, 0, 6]
+	DESCRIPTION = Left Click at 'Cancel'
+	TEXT = Compound Action =
+		Move mouse to (852.0, 570.5).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "Pencil".
+ExecutedAction [8]: 
+ @Action ConcreteID = ACyvckhi7f1817744279 AbstractID = AAyvckhi7f1817744279
+ ConcreteID CUSTOM = ACCkbxa9a802307892320 AbstractID CUSTOM = AACt9dxjb24807488891
+ @State ConcreteID = SCox6g1q7c61706689979 AbstractID = SR103fw2i7822113527562
+ ConcreteID CUSTOM = SCC3zodb089f3991550442 AbstractID CUSTOM = SACt0w3gr73f209012554
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WCqqg9us3c1055186506, WR1e04pz3e358922214, WTd8n97f142148385442, WP7nzhli382051283468
+		ROLE = UIASplitButton
+		TITLE = Select
+		SHAPE = Rect [x:571.0 y:182.0 w:41.0 h:37.0]
+		CHILDREN = 0
+		PATH = [0, 0, 0, 0, 0, 0, 6, 0, 0, 1, 0, 0]
+	DESCRIPTION = Left Click at 'Select'
+	TEXT = Compound Action =
+		Move mouse to (591.5, 200.5).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "Pencil".
+Sequence 1 finished.
+Sequence contained faults!
+Saved generated sequence ("./output\2021-10-10_16h52m01s_mspaint\sequences\2021-10-10_16h52m01s_mspaint_sequence_1.testar")
+Copying classified sequence ("./output\2021-10-10_16h52m01s_mspaint\sequences\2021-10-10_16h52m01s_mspaint_sequence_1.testar") to sequences_other folder...

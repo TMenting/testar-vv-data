@@ -1,0 +1,232 @@
+Detected fault: severity: 0.16 info: Failed to match "Share".
+Starting sequence 1 (output as: ./output\2021-12-11_19h33m38s_winword\sequences\2021-12-11_19h33m38s_winword_sequence_1.testar)
+
+Detected fault: severity: 0.16 info: Failed to match "Zoom Out".
+ExecutedAction [1]: 
+ @Action ConcreteID = AC1ecepvl7f2102724387 AbstractID = AA1ecepvl7f2102724387
+ ConcreteID CUSTOM = ACC1w5813k812251220411 AbstractID CUSTOM = AACof60ip263002568526
+ @State ConcreteID = SCf0xyy0d383149150565 AbstractID = SRaasftncd91346529011
+ ConcreteID CUSTOM = SCC1qviocke941337836975 AbstractID CUSTOM = SAC1mf3gghc553179597310
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WCh4fr8m3c647050297, WR1e04pz3e358922214, WT1mubrju174244889325, WP1if6g6s38900818623
+		ROLE = UIASplitButton
+		TITLE = Numbering
+		SHAPE = Rect [x:684.0 y:189.0 w:36.0 h:23.0]
+		CHILDREN = 2
+		PATH = [4, 0, 0, 0, 0, 0, 0, 9, 0, 2, 1]
+	DESCRIPTION = Left Click at 'Numbering'
+	TEXT = Compound Action =
+		Move mouse to (702.0, 200.5).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Discovered suspicious widget 'Title' : 'Spelling and Grammar Check No Errors'.
+Failed to match "Zoom Out".
+ExecutedAction [2]: 
+ @Action ConcreteID = AC176h5pa7e3916621452 AbstractID = AA176h5pa7e3916621452
+ ConcreteID CUSTOM = ACCqkjkq801129024988 AbstractID CUSTOM = AAC13s1x7t20365969961
+ @State ConcreteID = SCmde3awd52568848549 AbstractID = SR1rszjzmced2683596318
+ ConcreteID CUSTOM = SCCywn7s8ea82177276286 AbstractID CUSTOM = SAC9qk2eec684086091032
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC1hw4ae33c1947019216, WR1h6ibpb92248851252, WT1q5kx5t171707851611, WP90x6uh382745866166
+		ROLE = UIAButton
+		TITLE = Format Painter
+		SHAPE = Rect [x:329.0 y:227.0 w:21.0 h:23.0]
+		CHILDREN = 0
+		PATH = [4, 0, 0, 0, 0, 0, 0, 9, 0, 0, 3]
+	DESCRIPTION = Left Click at 'Format Painter'
+	TEXT = Compound Action =
+		Move mouse to (339.5, 238.5).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Failed to match "Zoom In".
+ExecutedAction [3]: 
+ @Action ConcreteID = ACi8zg8yfa3457492688 AbstractID = AA9unveod3408540735
+ ConcreteID CUSTOM = ACCamjeypfc1953807268 AbstractID CUSTOM = AACrkh9y51f1779310515
+ @State ConcreteID = SC1gcjyypcfb68634590 AbstractID = SRrgw9oqc9f489890464
+ ConcreteID CUSTOM = SCC1sy7312e53417789662 AbstractID CUSTOM = SAC1x44k3pc1c3633214171
+
+	ROLE = ClickTypeInto
+	TARGET =
+		WIDGET = WCa3in6s33183407199, WR4n0dlj72701565195, WT9bbq9yb2783395766, WPe1l3di2f2448837757
+		ROLE = UIAEdit
+		TITLE = Font
+		SHAPE = Rect [x:367.0 y:189.0 w:86.0 h:21.0]
+		CHILDREN = 0
+		PATH = [4, 0, 0, 0, 0, 0, 0, 9, 0, 1, 0, 0]
+	DESCRIPTION = Type '-1216109715' into 'Font
+	TEXT = Compound Action =
+		Compound Action =
+		Move mouse to (410.0, 199.5).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+		Press Key VK_CONTROL
+		Press Key VK_A
+		Release Key VK_A
+		Release Key VK_CONTROL
+		Type text '-1216109715'
+
+Detected fault: severity: 0.16 info: Failed to match "Zoom In".
+ExecutedAction [4]: 
+ @Action ConcreteID = AC1b58mdy7e2037021570 AbstractID = AA1b58mdy7e2037021570
+ ConcreteID CUSTOM = ACC1jlg1mq802494054080 AbstractID CUSTOM = AAC1r92eph26733945629
+ @State ConcreteID = SC1gcjyypcfb68634590 AbstractID = SRrgw9oqc9f489890464
+ ConcreteID CUSTOM = SCC19s9em1e4e632689010 AbstractID CUSTOM = SAC1x44k3pc1c3633214171
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WCgqqg7j3a1374413360, WR1e04pz3e358922214, WTqfwgfm152561451732, WP1bje8gt3680029879
+		ROLE = UIASplitButton
+		TITLE = Bullets
+		SHAPE = Rect [x:647.0 y:189.0 w:36.0 h:23.0]
+		CHILDREN = 2
+		PATH = [4, 0, 0, 0, 0, 0, 0, 9, 0, 2, 0]
+	DESCRIPTION = Left Click at 'Bullets'
+	TEXT = Compound Action =
+		Move mouse to (665.0, 200.5).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Discovered suspicious widget 'Title' : 'Spelling and Grammar Check No Errors'.
+Failed to match "Zoom Out".
+ExecutedAction [5]: 
+ @Action ConcreteID = AC4v85wt814161439070 AbstractID = AA4v85wt814161439070
+ ConcreteID CUSTOM = ACC2p7rnn82152441612 AbstractID CUSTOM = AAC1a7ltz2212740760706
+ @State ConcreteID = SC1t3n08ode03440430503 AbstractID = SRtxtamnd74995190810
+ ConcreteID CUSTOM = SCC1uhk9hkf472072423779 AbstractID CUSTOM = SAC13p66kvcec2652052516
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC18abe9h184091806737, WR1h6ibpb92248851252, WTzj7080b316331869, WP12y5mtf141985946360
+		ROLE = UIAButton
+		TITLE = No
+		SHAPE = Rect [x:972.0 y:634.0 w:63.0 h:25.0]
+		CHILDREN = 0
+		PATH = [4, 0, 1]
+	DESCRIPTION = Left Click at 'No'
+	TEXT = Compound Action =
+		Move mouse to (1003.5, 646.5).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Discovered suspicious widget 'Title' : 'Spelling and Grammar Check No Errors'.
+Failed to match "Zoom Out".
+ExecutedAction [6]: 
+ @Action ConcreteID = ACf5nem7e4150417203 AbstractID = AAf5nem7e4150417203
+ ConcreteID CUSTOM = ACCt0d396801566260323 AbstractID CUSTOM = AAC1mhvolo222788439795
+ @State ConcreteID = SCmde3awd52568848549 AbstractID = SR1rszjzmced2683596318
+ ConcreteID CUSTOM = SCCywn7s8ea82177276286 AbstractID CUSTOM = SAC9qk2eec684086091032
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC1yv32nv3b3616870509, WR17v7k2nb1067391859, WT14kg5i9163082552731, WP14aq2x372171274785
+		ROLE = UIAMenuItem
+		TITLE = Change Case
+		SHAPE = Rect [x:569.0 y:188.0 w:35.0 h:23.0]
+		CHILDREN = 0
+		PATH = [4, 0, 0, 0, 0, 0, 0, 9, 0, 1, 4]
+	DESCRIPTION = Left Click at 'Change Case'
+	TEXT = Compound Action =
+		Move mouse to (586.5, 199.5).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Discovered suspicious widget 'Title' : 'Spelling and Grammar Check No Errors'.
+Failed to match "Zoom Out".
+ExecutedAction [7]: 
+ @Action ConcreteID = ACa9wc37f2615838555 AbstractID = AAa9wc37f2615838555
+ ConcreteID CUSTOM = ACC1v120gk802897785971 AbstractID CUSTOM = AACj9qh0x24764177848
+ @State ConcreteID = SCmqzbcle0a3795178910 AbstractID = SRf26fc6d983672520543
+ ConcreteID CUSTOM = SCCzosa0gf711822920973 AbstractID CUSTOM = SAC1tddm2ld0d2512394587
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WCq34v5y403450721621, WR17v7k2nb1067391859, WTjgrqgi172529440030, WP1fj3xxw3c4171353973
+		ROLE = UIAMenuItem
+		TITLE = More Options
+		SHAPE = Rect [x:855.0 y:219.0 w:15.0 h:23.0]
+		CHILDREN = 0
+		PATH = [4, 0, 0, 0, 0, 0, 0, 9, 0, 2, 15, 1]
+	DESCRIPTION = Left Click at 'More Options'
+	TEXT = Compound Action =
+		Move mouse to (862.5, 230.5).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Discovered suspicious widget 'Title' : 'Spelling and Grammar Check No Errors'.
+Failed to match "Zoom In".
+ExecutedAction [8]: 
+ @Action ConcreteID = ACbfka8w7e3599468688 AbstractID = AAbfka8w7e3599468688
+ ConcreteID CUSTOM = ACC10nc0o77f2754328386 AbstractID CUSTOM = AAC1f8t6w42154892921
+ @State ConcreteID = SC6nzr1f0d1945708491 AbstractID = SR1m5kahve91816108357
+ ConcreteID CUSTOM = SCCcm6plg108c72638181 AbstractID CUSTOM = SAChhq439dfd3552434277
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC1m8nemu392703519909, WR1h6ibpb92248851252, WT1ggy4tj142545381298, WP1po64v8353977500705
+		ROLE = UIAButton
+		TITLE = Shrink Font
+		SHAPE = Rect [x:541.0 y:188.0 w:21.0 h:23.0]
+		CHILDREN = 0
+		PATH = [4, 0, 0, 0, 0, 0, 0, 9, 0, 1, 3]
+	DESCRIPTION = Left Click at 'Shrink Font'
+	TEXT = Compound Action =
+		Move mouse to (551.5, 199.5).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Discovered suspicious widget 'Title' : 'Spelling and Grammar Check No Errors'.
+Failed to match "Zoom In".
+ExecutedAction [9]: 
+ @Action ConcreteID = ACrjxo6s803226753218 AbstractID = AArjxo6s803226753218
+ ConcreteID CUSTOM = ACCcfto1w81709383017 AbstractID CUSTOM = AAC1x4ea4k252827479445
+ @State ConcreteID = SC1lri25jd511420085182 AbstractID = SR1rszjzmced2683596318
+ ConcreteID CUSTOM = SCC1iw8sfgea81094336299 AbstractID CUSTOM = SAC9qk2eec684086091032
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WCgul43v3c903501094, WR1e04pz3e358922214, WTekkhe5174140978245, WPtt89jt38315254450
+		ROLE = UIASplitButton
+		TITLE = Underline
+		SHAPE = Rect [x:411.0 y:219.0 w:36.0 h:23.0]
+		CHILDREN = 2
+		PATH = [4, 0, 0, 0, 0, 0, 0, 9, 0, 1, 8]
+	DESCRIPTION = Left Click at 'Underline'
+	TEXT = Compound Action =
+		Move mouse to (429.0, 230.5).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Discovered suspicious widget 'Title' : 'Spelling and Grammar Check No Errors'.
+Failed to match "Zoom Out".
+ExecutedAction [10]: 
+ @Action ConcreteID = ACtuqur8812604875854 AbstractID = AAtuqur8812604875854
+ ConcreteID CUSTOM = ACC1wbvw5n821888066920 AbstractID CUSTOM = AACpmqo41211433401065
+ @State ConcreteID = SC1lke2y3d523726110736 AbstractID = SR1rszjzmced2683596318
+ ConcreteID CUSTOM = SCC1ivp72lea83404536910 AbstractID CUSTOM = SAC9qk2eec684086091032
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WCtujbwe3a2204359952, WR1h6ibpb92248851252, WT4dl30hf915383019, WP11zf3d8361645842818
+		ROLE = UIAButton
+		TITLE = Styles
+		SHAPE = Rect [x:1289.0 y:223.0 w:15.0 h:20.0]
+		CHILDREN = 1
+		PATH = [4, 0, 0, 0, 0, 0, 0, 9, 0, 3, 0, 0, 3]
+	DESCRIPTION = Left Click at 'Styles'
+	TEXT = Compound Action =
+		Move mouse to (1296.5, 233.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+Detected fault: severity: 0.16 info: Discovered suspicious widget 'Title' : 'Spelling and Grammar Check No Errors'.
+Failed to match "Zoom In".
+Sequence 1 finished.
+Sequence contained faults!
+Saved generated sequence ("./output\2021-12-11_19h33m38s_winword\sequences\2021-12-11_19h33m38s_winword_sequence_1.testar")
+Copying classified sequence ("./output\2021-12-11_19h33m38s_winword\sequences\2021-12-11_19h33m38s_winword_sequence_1.testar") to sequences_other folder...
